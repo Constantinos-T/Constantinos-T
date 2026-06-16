@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Constantinos 👋
 
-<!--
-**Constantinos-T/Constantinos-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer collaborator on the Mojo File Organizer project, building practical desktop tools while studying modern web development.
 
-Here are some ideas to get you started:
+Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Modern Web Development at Kapodistrian University of Athens. Focused on HTML, CSS, JavaScript, jQuery, Bootstrap, React, Angular, and Vue.js.
+
+What I'm working on
+
+Contributing to Mojo File Organizer, an Electron desktop app for Windows that automatically organizes files, finds duplicates, cleans up disk space, and more.
+
+Tech I use
+
+HTML · CSS · JavaScript · jQuery · Bootstrap · React · Angular · Vue.js · Node.js · Electron · Git
+
+Find me
+
+GitHub
