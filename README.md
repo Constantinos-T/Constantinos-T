@@ -17,3 +17,6 @@ HTML · CSS · JavaScript · jQuery · Bootstrap · React · Angular · Vue.js �
 Find me
 
 GitHub
+
+---
+🚀 Building things, one commit at a time.
