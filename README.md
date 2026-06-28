@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Constantinos-T&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<h1 align="center">Hi, I'm Constantinos-T</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Constantinos-T">
@@ -6,9 +6,10 @@
   </a>
 </p>
 
+<img src="https://cdn.discordapp.com/attachments/1028063421003988992/1520810556913746032/github_banner_v5.png?ex=6a428cb4&is=6a413b34&hm=7a27b70de89e2400595e410010630a2065ac5151e72d3233ef0c2513e22236cb&" alt="Banner" width="100%" />
+
 ## About Me
-Currently learning:
-- Modern Web Development at Kapodistrian University of Athens. Focused on HTML, CSS, JavaScript, jQuery, Bootstrap, React, Angular, and Vue.js.
+- Currently learning: Modern Web Development at Kapodistrian University of Athens.
 
 
 
@@ -18,9 +19,7 @@ Currently learning:
   </a>
   <img src="https://streak-stats.demolab.com/?user=Constantinos-T&theme=vue&hide_border=true&cache_seconds=86400" alt="Constantinos-T's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Constantinos-T&theme=vue&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Constantinos-T's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Constantinos-T&theme=vue&radius=10" alt="Constantinos-T's Activity Graph" />
 </p>
@@ -58,7 +57,7 @@ Currently learning:
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
-
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
